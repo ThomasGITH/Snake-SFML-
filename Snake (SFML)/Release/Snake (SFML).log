@@ -1,0 +1,18 @@
+﻿  Main.cpp
+Main.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+Main.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+Main.cpp(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(142): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  All 125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake (SFML).vcxproj -> C:\Users\tlins\Documents\Visual Studio 2017\Projects\Snake (SFML)\Release\Snake (SFML).exe
