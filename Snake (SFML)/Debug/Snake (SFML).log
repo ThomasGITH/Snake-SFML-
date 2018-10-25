@@ -1,14 +1,19 @@
 ﻿  Main.cpp
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(31): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(143): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(156): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(157): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\snake (sfml)\snake (sfml)\main.cpp(168): warning C4305: 'argument': truncation from 'double' to 'float'
+  Snake (SFML).vcxproj -> C:\Users\tlins\Documents\Visual Studio 2017\Projects\Snake (SFML)\Debug\Snake (SFML).exe
