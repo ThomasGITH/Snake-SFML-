@@ -8,7 +8,6 @@
 //Vector2 struct for cleaner-looking code
 struct Vector2
 {
-public:
 	int x, y;
 	Vector2(int x, int y)
 	{
